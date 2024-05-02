@@ -1,0 +1,34 @@
+output:EmotionClassification.py
+C:\ProgramData\Lib\site-packages\sklearn\metrics\_classification.py:1471: UndefinedMetricWarning: Jaccard is ill-defined and being set to 0.0 in samples with no true or predicted labels. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: 0.12401352874859076
+Jaccard Score: 0.3097170773608203
+Micro-F1 Score: 0.4480252764612954
+Macro-F1 Score: 0.33144723566654277
+Confusion Matrix:
+[[232   3  32  10  34   0   3   3  13]
+ [ 60   0   5   4  29   0   1   1   2]
+ [ 33   0   7   4   8   0   1   1   1]
+ [ 23   0   2  27   5   0   0   1   2]
+ [ 92   2   5   4 149   6  10   0  10]
+ [  4   1   0   0   2   0   0   0   0]
+ [  6   1   1   2   1   0   2   0   0]
+ [  5   0   2   0   0   0   0   3   9]
+ [ 11   0   2   0   4   0   0   0   6]]
+Adjusted Metrics:
+Accuracy: 0.1161217587373168
+Jaccard Score: 0.38258783681557074
+Micro-F1 Score: 0.4430577223088924
+Macro-F1 Score: 0.37733255406309335
+
+output :EMOTIONCLASSIFICATION.py
+
+PS C:\Users\Ashu\Desktop\social_media industry assignment2_classification> & C:/ProgramData/python.exe "c:/Users/Ashu/Desktop/soocial_media industry assigment2_classification/emo.py"nment2_classification> & C:/ProgramData/python.exe "c:/Users/Ashu/Desktop/social_media industry assignment2_classification/emo.py"
+
+Jaccard Index: 1.0        
+Micro-F1 Score: 1.0       
+Macro-F1 Score: 1.0       
+Best Hyperparameters: {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 100}
+Tuned Model - Jaccard Index: 1.0
+Tuned Model - Micro-F1 Score: 1.0
+Tuned Model - Macro-F1 Score: 1.0

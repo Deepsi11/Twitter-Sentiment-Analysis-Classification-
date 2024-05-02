@@ -1,0 +1,23 @@
+output:EmotionClassification.py
+PS C:\Users\Ashu\Desktop\assignment 2> & C:/ProgramData/python.exe "c:/Users/Ashu/Desktop/assignment 2/Supplementary Documents/EmotionClassification.py"
+Line 1856 does not have enough elements: 2017-En-20247  @dfkm1970 @tomddumba the struggle is real. Whoa! I 
+
+Line 1857 does not have enough elements: <!--stackedit_data:
+
+Line 1858 does not have enough elements: eyJoaXN0b3J5IjpbMTU5MTQzNzkwNl19
+
+Line 1859 does not have enough elements: -->
+Training samples: 1855
+Sample tweet: Tweet
+Corresponding labels: ['anger', 'anticipation', 'disgust', 'fear', 'joy', 'love', 'optimism', 'pessimism', 'sadness', 'surprise', 'trust']
+C:\ProgramData\Lib\site-packages\sklearn\metrics\_classification.py:1471: UndefinedMetricWarning: Jaccard is ill-defined and being set to 0.0 in samples with no true or predicted labels. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: 0.10597519729425028
+Jaccard Score: 0.29233639340741935
+Micro-F1 Score: 0.431360201511335
+Macro-F1 Score: 0.3282935285912231
+Adjusted Metrics:
+Accuracy: 0.09695603156708005
+Jaccard Score: 0.3645922097444081
+Micro-F1 Score: 0.4344428817002657
+Macro-F1 Score: 0.3703661244056231
